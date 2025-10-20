@@ -1,6 +1,6 @@
 # Reliable API — Instructor Pack v5 🎓
 
-> **Private repository.**  
+> 
 > This toolkit equips instructors, mentors, and reviewers to deliver the *Reliable API* learning experience with confidence and consistency.
 
 It includes grading rubrics, verification scripts, and publishing tools that simplify setup, assessment, and automation for the Play Mode and Build Mode environments.
