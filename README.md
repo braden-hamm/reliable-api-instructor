@@ -25,7 +25,7 @@ It includes grading rubrics, verification scripts, and publishing tools that sim
 
 ## 🧭 Setup Instructions
 
-### 1️⃣ Clone the private repository
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/braden-hamm/reliable-api-instructor.git
 cd reliable-api-instructor
