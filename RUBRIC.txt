@@ -1,0 +1,7 @@
+RUBRIC (100)
+- Env present (10)
+- Non-root Dockerfile base on MCR (15)
+- Validation & API key check pass (20)
+- Compose builds app and runs (20)
+- Healthz returns ok (15)
+- Idempotency demo works (20)

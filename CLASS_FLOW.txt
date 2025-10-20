@@ -1,0 +1,4 @@
+CLASS FLOW
+1) Play Mode (15 min): run demo, discuss idempotency and rate limiting.
+2) Build Mode (40–60 min): learners build step by step; run verify + security sweep.
+3) Share & Publish (20 min): tutors guide pushing to GitHub/Docker Hub.
